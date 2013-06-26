@@ -1,0 +1,11 @@
+{
+    "name": "kevbaldwyn/ckeditor-dev",
+    "description": "A fork of the ckeditor with the sole aim of being useful as a composer installable package.",
+    "authors": [
+        {
+            "name": "Kev Baldwyn",
+            "email": "kevin@purepixel.co.uk"
+        }
+    ],
+    "minimum-stability": "stable"
+}
